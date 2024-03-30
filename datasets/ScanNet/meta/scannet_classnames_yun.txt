@@ -1,0 +1,21 @@
+bed
+floor
+wall
+sink
+bathtub
+window
+door
+table
+chair
+sofa
+bookcase
+desk
+clutter
+toilet
+curtain
+counter
+shower curtain
+refridgerator
+picture
+cabinet
+otherfurniture
